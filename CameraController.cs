@@ -9,7 +9,7 @@ public class CameraController : MonoBehaviour
     [SerializeField]
     private float yMax;
     [SerializeField]
-    private float xMin;
+    private float xMin;adsfasdfasdfasdfafda
     [SerializeField]
     private float yMin;
     public Transform target;
